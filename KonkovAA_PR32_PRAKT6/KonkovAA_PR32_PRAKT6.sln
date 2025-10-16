@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KonkovAA_PR32_PRAKT6", "KonkovAA_PR32_PRAKT6\KonkovAA_PR32_PRAKT6.vcxproj", "{298BF26A-1C91-4682-979C-B61FDAF47BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Debug|x64.ActiveCfg = Debug|x64
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Debug|x64.Build.0 = Debug|x64
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Debug|x86.Build.0 = Debug|Win32
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Release|x64.ActiveCfg = Release|x64
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Release|x64.Build.0 = Release|x64
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Release|x86.ActiveCfg = Release|Win32
+		{298BF26A-1C91-4682-979C-B61FDAF47BDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {039B80A5-278C-41C0-8B27-DFD1944C7094}
+	EndGlobalSection
+EndGlobal
